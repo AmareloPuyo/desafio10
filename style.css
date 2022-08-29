@@ -15,7 +15,7 @@
 }
 
 @font-face {
-    font-family: Android;
+    font-family: idroid;
     src: url('pacote-projeto-d010/fontes/idroid.otf') format('opentype');
     font-weight: normal;
 }
@@ -64,7 +64,7 @@ header p {
 }
 
 article h1 {
-    font-family: Android;
+    font-family: idroid;
     font-weight: normal;
     color: #1A5D38;
     padding: 10px 10px 10px 0px;
@@ -73,7 +73,7 @@ article h1 {
 }
 
 h2 {
-    font-family: Android;
+    font-family: idroid;
     font-weight: normal;
     background-image: linear-gradient(to right, #6ef1a983, #e6fff188);
     color: #1A5D38;
